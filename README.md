@@ -2,7 +2,7 @@
 <h3>I am i frontend developer from Ukraine</h3>
 
 <h2 align="center">💫 About Me:</h2>
-🔭 I’m currently working on Yaah (Your academy at home)<br>👯 I’m looking to collaborate on amazing project<br>🤝 I’m looking for help with some backend<br>🌱 I’m currently learning React, Nest JS<br>💬 Ask me about cooperation<br>⚡ Fun fact - I am funny man
+🔭 I’m currently working on Yaah (Your academy at home)<br>👯 I’m looking to collaborate on amazing project<br>🌱 I’m currently learning React, Nest JS<br>💬 Ask me about cooperation<br>⚡ Fun fact - I am funny man
 
 <h2 align="center">💻 Tech Stack:</h2> 
 <h3>🧑‍💻 Frontend</h3> 
@@ -22,7 +22,7 @@
 
 <h3>🕹️ Other Stuff</h3> 
 
-![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=for-the-badge&logo=netlify&logoColor=#00C7B7)![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) ![Trello](https://img.shields.io/badge/Trello-%23026AA7.svg?style=for-the-badge&logo=Trello&logoColor=white) 
+![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=for-the-badge&logo=netlify&logoColor=#00C7B7) ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white) ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) ![Trello](https://img.shields.io/badge/Trello-%23026AA7.svg?style=for-the-badge&logo=Trello&logoColor=white) 
 
 <h1 align="center">My GitHub Stats</h1>
 <div align="center">
