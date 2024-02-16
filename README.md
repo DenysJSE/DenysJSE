@@ -1,5 +1,5 @@
 <h1 align="center">Hi! My name is Denys</h1>
-<h3>I am i frontend developer from Ukraine</h3>
+<h3>I am React Frontend Developer from Ukraine</h3>
 
 <h2 align="center">💫 About Me:</h2>
 🔭 I’m currently working on Yaah (Your academy at home)<br>👯 I’m looking to collaborate on amazing project<br>🌱 I’m currently learning React, Nest JS<br>💬 Ask me about cooperation<br>⚡ Fun fact - I am funny man
