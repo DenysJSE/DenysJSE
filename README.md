@@ -2,7 +2,7 @@
 <h3>I am React Frontend Developer from Ukraine</h3>
 
 <h2 align="center">💫 About Me:</h2>
-🔭 I’m currently working on Yaah (Your academy at home)<br>👯 I’m looking to collaborate on amazing project<br>🌱 I’m currently learning React, Nest JS<br>💬 Ask me about cooperation<br>⚡ Fun fact - I am funny man
+🔭 I’m currently working on Yaah (Your academy at home)<br>👯 I’m looking to collaborate on amazing project<br>🌱 I’m currently learning React, Nest JS<br>💬 Ask me about cooperation<br>⚡ Fun facts - I love Formula 1, chess and football
 
 <h2 align="center">💻 Tech Stack:</h2> 
 <h3>🧑‍💻 Frontend</h3> 
