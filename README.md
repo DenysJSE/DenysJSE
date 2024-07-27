@@ -1,8 +1,8 @@
 <h1 align="center">Hi! My name is Denys</h1>
-<h3>I am React Frontend Developer from Ukraine</h3>
+<h3>I am Frontend Developer from Ukraine</h3>
 
 <h2 align="center">💫 About Me:</h2>
-🔭 I’m currently working on Yaah (Your academy at home)<br>👯 I’m looking to collaborate on amazing project<br>🌱 I’m currently learning React, Nest JS<br>💬 Ask me about cooperation<br>⚡ Fun facts - I love Formula 1, chess and football
+🔭 I’m currently working on project for my university in which people can find a place where to eat based on their location and search (like burger, pizza)<br>👯 I’m looking to collaborate on amazing projects<br>🌱 I’m currently learning React, Nest JS, NextJS<br>💬 Ask me about cooperation<br>⚡ Fun facts - I love Formula 1, chess and football
 
 <h2 align="center">💻 Tech Stack:</h2> 
 <h3>🧑‍💻 Frontend</h3> 
